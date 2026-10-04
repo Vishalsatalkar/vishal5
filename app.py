@@ -4,7 +4,7 @@ def calculate_basic(a, b):
     return addition, multiplication
 
 # Example usage:
-add_result, mult_result = calculate_basic(10, 5)
+addition_result, multiplication_result = calculate_basic(10, 5)
 
 print(f"Addition result: {addition_result}")       # Outputs: 15
 print(f"Multiplication result: {multiplication_result}")    # Outputs: 5
